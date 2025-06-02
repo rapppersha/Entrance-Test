@@ -8,8 +8,10 @@ How to compile and run the application
 
 git clone https://github.com/rapppersha/Entrance-Test.git
 2. Compile the Java files
+
 javac *.java
 3. Run one of the applications Caesar Cipher or Arithmetic Evaluator
+
 java CaesarCipherApp or java ArithmeticEvaluatorApp
 
 I separated the program into logic classes (CaesarCipher.java, ArithmeticEvaluator.java) and classes with the main method for running the application (CaesarCipherApp.java, ArithmeticEvaluatorApp.java). I used only standard Java libraries. Input and output are handled through the console.
