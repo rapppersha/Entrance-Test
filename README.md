@@ -5,6 +5,7 @@ This repository contains two console Java applications that provides two main fu
 
 How to compile and run the application
 1. Clone the repository
+
 git clone https://github.com/rapppersha/Entrance-Test.git
 2. Compile the Java files
 javac *.java
