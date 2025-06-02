@@ -7,9 +7,11 @@ How to compile and run the application
 1. Clone the repository
 
 git clone https://github.com/rapppersha/Entrance-Test.git
+
 2. Compile the Java files
 
 javac *.java
+
 3. Run one of the applications Caesar Cipher or Arithmetic Evaluator
 
 java CaesarCipherApp or java ArithmeticEvaluatorApp
